@@ -9,6 +9,7 @@ A RESTful Journal application built with **Spring Boot** and **MongoDB**, featur
 - Java + Spring Boot
 - Spring Security (HTTP Basic Auth)
 - MongoDB (via Spring Data MongoDB)
+- SonarCloud (code quality & static analysis)
 - Maven
 
 ---
